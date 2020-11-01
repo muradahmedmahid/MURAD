@@ -84,7 +84,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 \033[1;97m************************************************
-\033[1;96m~ IM NOT RESPONSIBLE FOR ANY MISS USE MR AAHIL ~
+\033[1;96m~ IM NOT RESPONSIBLE FOR ANY MISS USE MR MURAD ~
 \033[1;97m************************************************
 
 \033[1;95m____─▄───────▄█▄───────▄─ Stay Home 💓
